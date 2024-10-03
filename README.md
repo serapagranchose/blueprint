@@ -4,7 +4,7 @@
   </a>
 
   <h1>Blueprint</h1>
-  <p>A year-end school project that is a cpp bomberman clone using raylib for graphics.</p>
+  <p>A school project using Blueprint and Unreal Engine 5.</p>
 </div>
 
 ## Interface Utilisateur (UI) :
