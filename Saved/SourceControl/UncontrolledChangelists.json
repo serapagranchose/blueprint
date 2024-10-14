@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/Menu/NewMap.umap",
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/Menu/Menu.umap",
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/Menu/HUD_MENU.uasset",
+				"/Users/Shared/Epic Games/UE_5.4/Engine/Content/EngineFonts/Roboto.uasset",
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/Menu/Curse_of_the_Zombie.uasset",
+				"/Users/charly/Epitech/Projects/Tek5/Ureal Engine 5/blueprint/Content/Menu/25410fb2777963aa75e9a3f8ff44d495.uasset",
 				"C:/Users/Antonin/Coding/_UE/blueprint/blueprint/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
